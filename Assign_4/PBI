@@ -1,0 +1,43 @@
+Feature: Member Account 
+    As a Member
+    I want an account 
+    so that i can join teams 
+
+    # Accenptance criteria 
+    Scenario: Member wants to join or edit account
+        Given member is trying to edit or create an account 
+        when member enters new information 
+        then the information is updated appropriately 
+
+Feature: Team Membership 
+    As a Team Lead
+    I want an account 
+    so that i can create teams 
+
+    # Accenptance criteria 
+    Scenario: Member wants to join or leave a team
+        Given Team Lead is trying to edit or create a team 
+        when Team Lead enters new information 
+        then the information is updated appropriately 
+
+Feature: Project Assignments
+    As a Team Lead
+    I want a team assigned to projects
+    so that i can undertake projects
+
+    # Accenptance criteria 
+    Scenario:Customer brings new project forth
+        Given Team can handle the workload
+        when Team Lead accepts project
+        then the information is updated appropriately 
+
+Feature: Customer Account 
+    As a Customer
+    I want an account 
+    so that i can receive solutions 
+
+    # Accenptance criteria 
+    Scenario: Customer wants a project done
+        Given Customer is trying to receive a solution 
+        when Customer enters new information 
+        then the project is assigned to a team 
