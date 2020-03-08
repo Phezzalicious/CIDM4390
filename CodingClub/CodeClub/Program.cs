@@ -20,6 +20,7 @@ namespace CodeClub
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
+                    webBuilder.UseUrls("https://142.93.247.34:5000","https://142.93.247.34:5001");
                     webBuilder.UseStartup<Startup>();
                 });
     }

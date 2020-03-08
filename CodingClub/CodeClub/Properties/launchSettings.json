@@ -18,7 +18,7 @@
     "CodeClub": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "http://142.93.247.34/:5001;http://142.93.247.34/:5000",
+      "applicationUrl": "https://142.93.247.34:5001;https://142.93.247.34:5000",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
