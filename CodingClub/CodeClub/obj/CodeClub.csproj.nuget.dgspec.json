@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\School\\CIDM4390\\Tutorials\\CodeClub\\CodeClub.csproj": {}
+    "C:\\Code\\School\\CIDM4390\\CodingClub\\CodeClub\\CodeClub.csproj": {}
   },
   "projects": {
-    "C:\\School\\CIDM4390\\Tutorials\\CodeClub\\CodeClub.csproj": {
+    "C:\\Code\\School\\CIDM4390\\CodingClub\\CodeClub\\CodeClub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\School\\CIDM4390\\Tutorials\\CodeClub\\CodeClub.csproj",
+        "projectUniqueName": "C:\\Code\\School\\CIDM4390\\CodingClub\\CodeClub\\CodeClub.csproj",
         "projectName": "CodeClub",
-        "projectPath": "C:\\School\\CIDM4390\\Tutorials\\CodeClub\\CodeClub.csproj",
+        "projectPath": "C:\\Code\\School\\CIDM4390\\CodingClub\\CodeClub\\CodeClub.csproj",
         "packagesPath": "C:\\Users\\starf\\.nuget\\packages\\",
-        "outputPath": "C:\\School\\CIDM4390\\Tutorials\\CodeClub\\obj\\",
+        "outputPath": "C:\\Code\\School\\CIDM4390\\CodingClub\\CodeClub\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\starf\\AppData\\Roaming\\NuGet\\NuGet.Config"
